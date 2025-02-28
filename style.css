@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+body {
+  height: 100vh;
+  display: grid;
+  place-content: center;
+}
+.radio-group {
+  display: flex;
+  gap: 1rem;
+}
+textarea {
+  padding: 1rem;
+}
+table {
+  width: fit-content;
+  margin: auto;
+}
